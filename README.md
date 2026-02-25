@@ -2,8 +2,8 @@
 
 
 ## Getting started
-Please refer to the documentation.
+Please refer to the  docker documentation.
 
 
 ## Get support
-- [Issues](https://github.com/DeepikaVenki/docker/issues)
+[Issues](https://github.com/DeepikaVenki/docker/issues)
